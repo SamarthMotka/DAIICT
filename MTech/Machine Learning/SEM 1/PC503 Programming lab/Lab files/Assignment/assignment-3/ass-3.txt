@@ -1,0 +1,6 @@
+1. Write a program which take a word from user as input and remove that word from a particular file.
+
+2. Write a program that can remove the word which is mentioned in stopword.txt
+https://www.kaggle.com/datasets/rowhitswami/stopwords
+
+3. Write a program which can handle the following exception: ValueError, TypeError, NameError and SyntaxError
