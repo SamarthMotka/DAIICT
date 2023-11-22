@@ -1,0 +1,1 @@
+this django project (myHosetel) is not accurate may contain error

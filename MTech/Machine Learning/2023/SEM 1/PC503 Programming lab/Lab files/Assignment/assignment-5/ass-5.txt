@@ -1,0 +1,14 @@
+1. Create a class named ‘Animal’ which includes methods like eat() and sleep(). Create a child class of Animal named ‘Bird’ and override the parent class methods. Add a new method named fly(). Create an instance of the Animal class and invoke the eat and sleep methods using this object. Create an instance of Birds class and invoke the eat, sleep, and fly methods using this object.
+
+2. Write a program that
+defines a class named Shape with a constructor that accepts a width and height value.
+define two sub-classes: 1) a Triangle class and 2) a Rectangle class. These 2 classes will Inherit the 2 values from the Shape class
+In the main(), define two objects: 1) A Triangle object and 2) a Rectangle object
+At the time of creation provide the 2 values necessary
+call the getArea() function in these two class variables 
+(DO NOT ask for user input....)
+The area of a triangle is calculated as (height * base) / 2
+
+3. Build Django Sign-Up and Login for Hostel Room Registration:
+with the fields for registration like Name, Father name, Mother name, permanent address, college ID, College, Name, email, password, Radio button with the room type(AC, NON-AC), Radio button with food,not-food.
+fields for login: email, password
