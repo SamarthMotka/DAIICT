@@ -1,0 +1,24 @@
+This is an official announcement of the challenge in lab 4 (retrieval and evaluation using terrier).
+
+
+Task:
+You are given two datasets with a total of ~390K Documents and 50 queries.
+The task is to get the best possible MAP values using different indexing, retrieval, reranking and query expansion techniques.
+
+Teams are free to do this within terrier or implement on their own. If any team wants to implement from scratch or use a different indexing technique within terrier, they can contact me for the datasets. For others, the pre-built index shared during the lab session should be sufficient.
+
+Submission file should be a single zip file containing the following:
+
+1. a CSV file of the format: Qid, Docid, Score
+Documents for each query should be sorted in descending order.
+2. A text file with the scores mentioned
+
+Baseline MAP: 0.395 (Obtained using BM25 + Query expansion)
+
+Top 5
+teams who beat the baseline by atleast 5% get 5 Marks each that count
+towards the lab exam. We will use MAP values for this, not
+p@K.
+
+Submission deadline: 6th October 2024, 11:59 PM
+No extension to this will be provided.
